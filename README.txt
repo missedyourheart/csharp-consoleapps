@@ -12,11 +12,3 @@ C# Console Samples
 created by Umut on 2019
 last update:8.2022
 twitter/missedyourheart
-
-
-
-
-
-
-
-
